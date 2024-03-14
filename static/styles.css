@@ -1,0 +1,37 @@
+.prediction-box {
+  width: 300px;
+  height: 100px;
+  padding: 100px;
+  border: 1px solid red;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 20px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.jumbotron{
+    margin-top: 50px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.btn{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+#fileinputbutton{
+  margin-left: 30px;
+}
+
+.chart {
+    height: 200px;
+}
+
+.spacer {
+    height: 20px;
+}
