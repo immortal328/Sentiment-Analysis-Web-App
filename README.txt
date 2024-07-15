@@ -1,8 +1,8 @@
-<h1>Sentiment Analysis Web App</h1>
-### Overview
+# Sentiment Analysis Web App : 
+# Overview
 The Sentiment Analysis Web App is designed to provide users with an intuitive and efficient way to analyze sentiments in various forms of text. Leveraging Natural Language Processing (NLP) techniques, the application processes plain text, text files, and Flipkart review URLs to deliver real-time sentiment analysis. This tool is particularly useful for businesses and individuals looking to gain insights into customer feedback and product reviews.
 
-### Key Features
+# Key Features:
 1. **Intuitive User Interface:**
    - **Frontend:** Developed using HTML, CSS, and Bootstrap for a responsive and aesthetically pleasing design.
    - **Interactivity:** Enhanced with JavaScript to provide a seamless user experience.
@@ -19,17 +19,17 @@ The Sentiment Analysis Web App is designed to provide users with an intuitive an
    - **Graphical Representation:** Results are presented graphically to enhance decision-making.
    - **Detailed Insights:** Users can view sentiment distribution and detailed analysis of text sentiment, helping them understand customer emotions and feedback trends.
 
-### Use Cases
+# Use Cases
 - **Customer Feedback Analysis:** Helps businesses understand customer sentiments towards their products or services.
 - **Product Review Insights:** Assists in evaluating product reviews on Flipkart, providing valuable insights for potential buyers and sellers.
 - **Content Evaluation:** Useful for content creators and marketers to gauge audience reactions to their content.
 
-### Benefits
+# Benefits
 - **User-Friendly:** The intuitive UI makes it easy for users of all technical backgrounds to navigate and use the app.
 - **Comprehensive Analysis:** Provides a thorough sentiment analysis, helping users make informed decisions based on data-driven insights.
 - **Versatile:** Supports multiple input types, making it flexible and suitable for various applications.
 
-### Technology Stack
+# Technology Stack:
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
 - **Backend:** Python, Flask
 - **NLP:** Advanced NLP libraries and techniques for sentiment analysis
